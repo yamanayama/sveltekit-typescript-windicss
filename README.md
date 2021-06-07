@@ -1,7 +1,7 @@
 # SvelteKit-TypeScript-WindiCSS
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/yamanayama/sveltekit-typescript-windicss)
-↑ボタン押してcloneすると大江くんのGitpodのURLになるから注意
+↑ボタン押してcloneするとコピー元のGitpodのURLになるから注意
 
 ## Technology stack
 
